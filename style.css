@@ -19,7 +19,7 @@ html {
 
 body {
   font-family: 'Poppins', sans-serif;
-  background: url("images/Background.jpg") no-repeat center/cover fixed;
+  background: url("Background.jpg") no-repeat center/cover fixed;
   padding-top: 80px;
   color: #222;
 }
